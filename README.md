@@ -1,2 +1,0 @@
-# dreamaz
-dreamaz_project
